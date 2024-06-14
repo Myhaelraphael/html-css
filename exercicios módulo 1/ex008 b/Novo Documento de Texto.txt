@@ -1,0 +1,37 @@
+>Código-Fonte
+O comando document.getElementById('teste') é escrito em linguagem JavaScript. para eu mostrar o dogigo com a visão certa, basta coloca-lo ele entre a tag (CODE), Que chamamos de fonte mono espaçada (CODE) que é otima pra lermos código.
+{
+Caso você digite um código de alguma linguagem com identação (Segue em baixo)
+A tag (CODE) não organiza seu Código com Identação, que é a organização do Código. (Então no site ficará como se fosse um texto, tudo escrito um do lado do outro.
+Para que seja mostrado no site como Código voce envelopa tudo (Dês do CODE até o /CODE) e usa a Tag (pre) Que vai fazer com que seja considerado tudo, Os espaços na frente, as quebras de linha, as tabulações 
+Caso você queira tirar as tubulações um jeito mais facil você segura (Shift+TAB)
+Caso você queira acrecentar mais tubulações voce vai segura (TAB)
+Tudo que estiver dentro da Tag (Pre) será considerado, seja com espaço ou quebras de linha.
+}
+
+Extra 
+
+Indentação é o espaçamento aplicado no início das linhas de código que ajuda a manter uma hierarquia visual.
+
+Fim
+
+Quando eu tiver fazendo uma citação de algo que uma pessoa estiver falando, eu posso envelopar e usar a tag (Q) que signifca citação.
+Quando você coloca o (q) você está dando sentido pras coisas (O sentido de uma citação)
+Então quando for uma citação (Usar a tag (q) invés de apenas colocar as (") manualmente )
+
+
+Citações 
+
+
+blockquot (Ela aparece deslocada horizontalmente ela vem um pouco mais pra dentro, e eu sei que é uma citação para um determinado autor)
+Mais também podemos cria dentro do nosso blockquot  um parametro chama cite (Que é citando) O endereço do livro. visualemten nao vai aparecer nada, mais o mecanismo de busca o google a parte interna do seu site vai saber que essa frase está referenciando o livro que está disponivel no endereço colocado. Isso vai ajudar para que voce possa manter os direitos de quem produz conteudo   
+ 
+
+ABREVIAÇÕES
+
+Quando quiser colocar oque significa a sigla TAG(abbr) quando voce colocar essa tag, ela ja vai pedir que você coloque um title, que é o significado dessa sigla. Ele vai ficar basicamente um sublinhadinho em baixo da sigla, e quando passar o mouse por cima, ele mostra a sigla.
+
+Texto Invertido
+
+bdo dir="rtl"(Para colocar um texto invertido)
+bdo dir="ltr (Ele mostra o texto normalmetne)

@@ -1,0 +1,3 @@
+(&lt;) (< &gt>;)
+<!-- ( comentario)
+&#x (toda vez que for colocar o código de um emoji)

@@ -1,0 +1,11 @@
+Módulo 1
+Conceitos básicos, preparação do ambiente, semântica da HTML5, textos, títulos, Ligações, multimidia, estilos.
+
+
+
+
+hr- (linha horizontal)
+<br> (quebra de linha)
+(&lt;) (< &gt>;)
+<!-- ( comentario)
+&#x (toda vez que for colocar o código de um emoji)

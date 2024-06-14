@@ -1,0 +1,3 @@
+evite utlizar o intliane a todo custo, só se for algo pontual bem especifica
+o css internos dentro style, só coloca se for stylo pequenos
+externo use sem moderação se o teu site tiver mais de uma página que vai utlizar desse estilo, voce pode usar varios estilo no mesmo html

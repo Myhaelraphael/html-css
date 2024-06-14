@@ -1,0 +1,58 @@
+@font-face {
+	font-family: 'fonte';
+	src: url(fonts/young-serif/fonte.ttf);
+}
+body{
+	background-color: rgba(252, 202, 87, 0.455);
+}
+h1{
+	font-family: 'fonte';
+	font-size: 40px;
+}
+article{
+	border: solid white;
+	box-shadow: 2px 5px 27px black;
+	border-radius: 30px;
+	width: 700px;
+	margin: 20px auto auto auto ;
+	background-color: white;
+	padding: 20px;
+	text-align: justify;
+}
+h2{
+	color: coral;
+}
+div{
+	border: solid white;
+	border-radius: 20px;
+	background-color: rgba(212, 96, 96, 0.03);
+	padding: 10px;
+	
+}
+div > h3{
+	padding: 0px 0px 0px 25px;
+	color: darkorchid;
+}
+footer{
+	margin: 10px;
+	border: solid white;
+	box-shadow: 10px 10px 10px black;
+}
+footer > a{
+	text-decoration: none;
+}
+a:active{
+	color: red;
+}
+a:visited{
+	color: blue;
+}
+a:hover{
+	text-decoration: underline;
+}
+img{
+	border-radius: 20px;
+}
+p{
+	font-weight: normal;
+}

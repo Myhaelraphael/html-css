@@ -1,0 +1,3 @@
+hr- (linha horizontal)
+h1- (titulo principal) (A etiqueta H1 é um cabeçalho HTML geralmente utilizado para marcar o título de uma página da web)
+p-  (Paragrafo)

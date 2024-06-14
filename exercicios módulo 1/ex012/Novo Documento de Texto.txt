@@ -1,0 +1,15 @@
+forma mais facil de por um video
+
+tag Video dentro dela vai por o video, pra modificar a largura do video vai por width ai a largura que quer, e pra aparecer pra rodar o video voce vai por controls, como tem que por todos os links e melhor fazer igual fez com audio, porem com a tag video.
+
+VIDEO E controls, e dentro dela por os source
+type para mp4 é "video/mp4"
+type para m4v é "video/mp4"
+type para webm é "video/webm"
+type para ogv é "video/ogg"
+
+pra por uma capa no video, você vai por 
+
+video (widht, que é pra largura) (poster, que é o caminho da capa do video) e no final controls para iniciar o video
+
+sempre lembrar da ondem que foi posta nós video, e dentro da tag video, colocar um Paragrafo, (Seu navegador não tem compatibilidade com reprodução de vídeos.

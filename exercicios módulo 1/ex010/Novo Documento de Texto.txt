@@ -1,0 +1,18 @@
+Tag (a) logo enseguida vem (a href) para se colocar o endereço de link que vai abrir na mesma pagina.
+Tag (a href + Target _blank )(Serve pra abri uma nova guia sem fechar a outra)Acrencentar sempre (rel= external depois do target )
+rel= external (Serve pra indicar pro seu navegador que é um link externo)
+Quando vai pra outro site e recomendavel usar o targent blank, Quando for permenacer no seu site, nao e tanto necessario abrir outra aba.
+(Target=_self) Quer dizer pra nao abrir uma nova pagina e sim usar a mesma que já está aberta.
+
+Links Internos
+
+a href + rel= next (Próximo)
+a href + rel= prev (anterior)
+
+Sempre que você fizer um link patrocinado você envelopa colocar pra abrir numa nova rela e coloca (rel=nofollow) não siga
+
+Para eu voltar uma página que nao esteja na mesma pasta que a outra vou colocar (../ e o nome do endereço)
+
+Pra fazer um dowload de uma pasta compactada, colocar a ahref o nome da pasta, Type APPLICATION/ZIP (Colocar sempre o arquivo que vai pra download me outra pasta) ( Download=Colocar o nome do arquivo)
+Não esquecer de compactar a pasta que tem o arquivos dentro pra download
+ 

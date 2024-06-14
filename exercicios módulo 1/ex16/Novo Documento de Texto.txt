@@ -1,0 +1,4 @@
+3baPra fazer degradê você nao vai usar a tag Background color, e siim Background image(Linear gradient)(to right, para direita) (to left, para esquerda)(to top, para cima) ( pra baixo to bottom)
+(*) configurações globais da CSS
+background-attachment: fixed ( ele mantém o fundo fixo)
+border-radius pra deixar a borda um pouco mais arredondada

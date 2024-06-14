@@ -1,0 +1,25 @@
+font family - san serif, qual quer fonte que nao tenha serif, todos os dispositivos vao ler
+font family - serif, uma fonte serifada, uma que ele considera padrao
+font family - monospace, ele vai colocar uma fonte que ele escolheu lá 
+
+
+
+para a configuração do font size, e recomendavel  a media (px), ou a  medida (em)
+16px nornalmente e o tamanhi normal da font
+1em normalmente e 16px 2em é o dobro então seria 32px
+
+
+weight (Peso)lighter, normal, bold e bolder
+width (largura)
+height( altura)
+
+fonte-style serve pra decidir se quer normal ou em italico
+font-style: normal ou italic
+
+netrito voce nao tem mais a tag i, você vai usar a font weight bolder pra negritar
+e o font style: italic pra caso você queira deixar em italico
+Text decoratiion underline (pra deixar sublinhado)
+
+
+no lugar de eu usar 4 linhas dizendo sobre (Family, weight, size, style)
+vou abrir uma tag (font:) e a sequencia é (Style, Weight, Size, Family) entao você coloca essa sequencia que aparecera a configuração

@@ -1,0 +1,14 @@
+Fonts externas ( dafont.com ) ( Depois que baixar o modelo de font, tem que por ele na mesma pasta, caso esteja em uma outra pasta far igual faz com imagens)
+
+tag ( @Font-face)
+
+
+
+
+
+tipos de format
+opentype (otf)
+truetype (ttf)
+embedded-opentype
+truetype-aat ( Apple Advanced Typography)
+svg

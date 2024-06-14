@@ -1,0 +1,1 @@
+Na area de cabeçalho digitar ( <link rel="shortcut icon" href="html.ico" type="image/x-icon">) (Entre o href colocar a ico que deseja por ) ou apenas digitar (Link) que vai aparecer a opção favicon

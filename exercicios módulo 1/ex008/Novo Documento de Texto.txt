@@ -1,0 +1,17 @@
+<b> (Tag para deixar em negrito)
+<Strong> (termo em Destaque usando a tag STRONG) (semântica).Negrito também com semantica
+CTRL+SHIFT+P (Pode colocar a tag que for envelopar)
+TAG (<MARK>) Seria um marcatexto--- Caso queira mudar a cor e só acrecentar Style background- color 
+small-- (Letra pequena)
+Del (Um texto excluido)(Riscado por cima das palavras)
+INS ( Um texto inserido) ( Riscado em baixo da palavra SUBLINHADO)
+U (Sublinhado nao semantica)
+Sup(Sobrescrito, É pra cima )
+Sub(Subscrito, É pra baixo)
+em(Ênfase)
+
+Style dentro da area HEAD( Mark, para fazer a marcação de texto de todas as frases que estao marcadas no código, caso queira marcalas de uma cor diferente)
+
+
+Sempre que for deixar em negrito usar (<b>) e sim começar a usar (<Strong>)
+Sempre que for pra dar enfase deixar de usar (<i>) e sim usar (<em>)

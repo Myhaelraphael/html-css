@@ -1,0 +1,11 @@
+picture ( e dentro dela a imagem oficial, e as imagens flexisiveis)
+source (para colocar as imagens flexísiveis)
+
+
+
+
+Tag picture a base é a imagem padrao que você carregar, acima dela você vai colocando os source,  na ordem, grande & média e pequena, se tiver uma menor que a pequena tem que por em cima da pequena)
+1 maneira de adicionar audio( tag audio, quase igual a tag img, depois de selecionar o audio acrescentar ( controls e autoplay) (Essas sao as formas mais limitas pra fazer isso) 
+Tag (audio) 
+(<audio preload="metadata" controls>) Isso e pra quando a pessoar quiser colocar a musica ela clicar pra ouvir a musica, caso você coloque a escrita (loop) depois de controls, isso vai fazer com que a musica volte a tocar quando acabar.
+caso no computador da pessoa nao rode a musica você pode por um href o endereço da musica, para caso nao rode ela possa baixar a musica
